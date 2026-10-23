@@ -37,7 +37,7 @@ Version: 0.9.0-beta.1. Both IPS variants have the same version.
 The ROM header contains numeric version 0.9.0 plus the beta.1 prerelease label.
 
 TESTING
-Full playthrough remain needed.
+Full playthrough needed.
 Start with a new game or an ordinary in-game save. Do not reuse emulator states
 created with older code. Keep your original ROM and saves backed up.
 
